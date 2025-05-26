@@ -1,0 +1,7 @@
+jupyterlab
+jupyterscad
+solidpython2
+jupyter-openscad-kernel
+colorama
+codespell
+markdown
