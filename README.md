@@ -4,7 +4,7 @@ this repository is created as documentation for myself and future reference, as 
 
 ## requirements
 
-requirements are basically covered in `requirements.txt`, however mostly using !(NopSCADlib)[https://github.com/nophead/NopSCADlib/tree/master?tab=readme-ov-file#round] it is necessary to acquire said library too.
+requirements are basically covered in `requirements.txt`, however mostly using ![NopSCADlib])(https://github.com/nophead/NopSCADlib/tree/master?tab=readme-ov-file#round) it is necessary to acquire said library too.
 
 *OpenSCAD* uses `$OPENSCADPATH` environment var, preferrably defined in `/etc/profile`, however if you prefer to declare your env somewhere else, feel free to do so. 
 
