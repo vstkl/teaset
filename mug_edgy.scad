@@ -1,6 +1,7 @@
 include </usr/share/openscad/libraries/NopSCADlib/lib.scad>;
 include </usr/share/openscad/libraries/NopSCADlib/utils/round.scad>;
 include </usr/share/openscad/libraries/NopSCADlib/utils/rounded_cylinder.scad>;
+use </home/m/proj/teaset/mug_edgy.scad>;
 
 $fn = 200;
 
